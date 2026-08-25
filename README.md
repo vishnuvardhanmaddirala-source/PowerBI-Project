@@ -65,7 +65,11 @@ The complete Power BI project is available in:
 
 ## 👨‍💻 About Me
 
-I am a final-year B.Tech Computer Science student interested in Data Analytics and Business Intelligence. I am developing practical projects using Power BI, Excel, Python, SQL, and data visualization techniques.
+I am a final-year B.Tech Computer Science student interested in Data Analytics and Business Intelligence. I am developing practical projects using Power BI, Python and data visualization techniques.
+
+## 📸 Dashboard Preview
+
+![Amazon Sales Dashboard](screenshots/Dashboard.png)
 
 
 ---
